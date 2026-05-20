@@ -1,0 +1,8 @@
+# 📄 файл: .gitignore
+
+.env
+data.db
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
